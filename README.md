@@ -4,7 +4,9 @@
 I am Saad Ahmed Jamal and currently persuing master degree in Copernicus Digital Earth from Univeristy of Salzburg and Univeristy of South Brittany.
 
 🔭 I’m currently working on multi-modal learning and data fusion for earth observation 
+
 🌱 I like to play tennis and cricket
+
 📫 How to reach me: jamal.e2107235@etud.univ-ubs.fr 
 
 
