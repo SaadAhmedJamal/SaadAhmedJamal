@@ -5,7 +5,7 @@ I am Saad Ahmed Jamal and currently persuing master degree in Copernicus Digital
 
 🔭 I’m currently working on multi-modal learning and data fusion for earth observation 
 
-🌱 I like to play tennis and cricket
+🌱 I like U+1F3BE and U+1F3CF
 
 
 
