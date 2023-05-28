@@ -20,7 +20,7 @@ I am Saad Ahmed Jamal and currently persuing master degree in Copernicus Digital
 
 📫 How to reach me: jamal.e2107235@etud.univ-ubs.fr 
 
-📫: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-UmairMukhtar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmed-jamal-77b4b2156/)
+📫: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SaadAhmedJamal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmed-jamal-77b4b2156/)
 
 
 
