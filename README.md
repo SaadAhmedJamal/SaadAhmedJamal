@@ -3,7 +3,7 @@
 
 I am Saad Ahmed Jamal and currently persuing master degree in Copernicus Digital Earth from University of Salzburg and University of South Brittany.
 
-🔭 I’m currently working on multi-modal learning and data fusion for earth observation 
+🔭 Data science for earth observation 
 
 
 
