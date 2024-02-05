@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Saad Ahmed Jamal and currently persuing master degree in Copernicus Digital Earth from University of Salzburg and University of South Brittany. Feel free to view my work on my eportfolio: [a link](https://saadahmedjamal.github.io/)
+I am Saad Ahmed Jamal and currently persuing master degree in Copernicus Digital Earth from University of Salzburg and University of South Brittany. Feel free to view my work on my eportfolio: [link](https://saadahmedjamal.github.io/)
 
 🔭 Data science for earth observation 
 
