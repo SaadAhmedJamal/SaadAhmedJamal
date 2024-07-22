@@ -18,7 +18,7 @@ I am Saad Ahmed Jamal and currently persuing master degree in Copernicus Digital
 🌱 I like 🎾 and 🏏
 
 
-📫 How to reach me: saad.jamal@stud.plus.ac.at, jamal.e2107235@etud.univ-ubs.fr (not functional anymore)
+📫 How to reach me: saad.jamal@stud.plus.ac.at, jamal.e2107235@etud.univ-ubs.fr (not functional anymore), fc60608@alunos.uevora.pt
 
 📫: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-SaadAhmedJamal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmed-jamal-77b4b2156/)
 
