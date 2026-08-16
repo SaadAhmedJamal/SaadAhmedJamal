@@ -13,6 +13,9 @@ I am Saad Ahmed Jamal and I did my master degree in Copernicus Digital Earth fro
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="PyTorch" class="m-2">                
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="MySQL" height="50" width="120" class="m-2">
 
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+
 
 
 🌱 I like 🎾 and 🏏
